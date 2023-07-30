@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Identidade Visual Professora",
+      "budget": "20",
+      "category": {
+        "id": "3",
+        "name": "design"
+      },
+      "cost": 2,
+      "services": [
+        {
+          "name": "canvas",
+          "cost": "2",
+          "description": "Layouts",
+          "id": "f9145eeb-9106-4478-b5de-5cc73201a44c"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "design"
+    },
+    {
+      "id": 4,
+      "name": "planejamento"
+    }
+  ]
+}

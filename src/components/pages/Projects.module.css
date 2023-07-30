@@ -1,0 +1,26 @@
+.project_container{
+    padding: 2em;
+}
+
+.title_container{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+/*
+[
+  {
+    "category": {
+      "id": "2",
+      "name": "desenvolvimento"
+    },
+    "name": "App de cortar fotos",
+    "budget": "0",
+    "cost": 0,
+    "services": [],
+    "id": 1
+  }
+]
+
+*/
